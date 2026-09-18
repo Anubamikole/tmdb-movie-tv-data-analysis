@@ -1,0 +1,6 @@
+pandas
+numpy
+pymongo
+newsapi-python
+matplotlib
+seaborn
